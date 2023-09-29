@@ -1,8 +1,8 @@
 Aqui Insertaremos los nombres de cada estudiante
+
 1 Camilo Andres Pulistar Lopez
-2 jhon esteban ortiz pascuaza 
-3. Diego Alejandro Guerrero España
-4. Juan Camilo López Caicedo
-
-
+2. jhon esteban ortiz 
+3. Juan Camilo López Caicedo
+4. Diego Alejandro Guerrero España
+5. Jhonatan Eliecer Díaz Vásquez
 
