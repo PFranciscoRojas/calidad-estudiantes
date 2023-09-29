@@ -1,3 +1,6 @@
 Aqui Insertaremos los nombres de cada estudiante
 1 Camilo Andres Pulistar Lopez
-2 Diego Alejandro Guerrero España
+2. Diego Alejandro Guerrero España
+3. Juan Camilo López Caicedo
+
+
