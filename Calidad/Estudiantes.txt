@@ -1,4 +1,5 @@
 Aqui Insertaremos los nombres de cada estudiante
-1 Camilo Andres Pulistar Lopez
+1. Camilo Andres Pulistar Lopez
 2. Juan Camilo López Caicedo
-3. Jhonatan Díaz
+3. Diego Alejandro Guerrero España
+4. Jhonatan Díaz
