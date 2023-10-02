@@ -7,3 +7,4 @@ Aqui Insertaremos los nombres de cada estudiante
 5. Diego Alejandro Guerrero España
 6. Jhonatan Eliecer Díaz Vásquez
 7. David Santiago Obando Revelo
+8. Sebastian Fajardo Delgado
